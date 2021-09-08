@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       title: 'Recycler App PageViewer',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch:  Colors.blue  ,
+          primarySwatch: MaterialColor( Colores.colorPrimary ,  color )
       ),
       home: HomePage(),
     );
