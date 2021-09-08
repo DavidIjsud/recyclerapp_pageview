@@ -1,16 +1,5 @@
-# recycleapp
+Aplicacion de recycler mas que todo para demostrar el pageView y botones usando Bloc.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2021-09-07 at 23 23 36 (1)](https://user-images.githubusercontent.com/35741206/132441495-4ded2033-4723-4332-b60c-dc8296d0ab7b.jpeg)
+![WhatsApp Image 2021-09-07 at 23 23 36 (2)](https://user-images.githubusercontent.com/35741206/132441498-464923e8-62b6-45ea-bae0-9b3a04273343.jpeg)
+![WhatsApp Image 2021-09-07 at 23 23 36](https://user-images.githubusercontent.com/35741206/132441501-0d97ecd8-7a4b-4d23-8225-77b2fe58c9a3.jpeg)
